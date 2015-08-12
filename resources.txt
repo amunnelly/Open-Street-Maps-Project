@@ -1,0 +1,8 @@
+LINKS
+For the Dublin postcodes: https://www.anpost.ie/AnPost/AnPostDM/ProductsAndServices/Publicity+Post/DublinDeliveryZones/Dublin+Delivery+Zones.htm
+
+RESOURCES
+https://docs.python.org/3/library/xml.etree.elementtree.html
+http://eli.thegreenplace.net/2012/03/15/processing-xml-in-python-with-elementtree
+
+No others. I found the lecture materials very, very comprehensive.
